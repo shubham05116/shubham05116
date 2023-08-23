@@ -5,7 +5,7 @@
           <h3 align ="center">Nice to meet you!</h3>  
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=dhruv9316.dhruv9316)
+<img src="https://komarev.com/ghpvc/?username=shubham05116&&style=flat-square" align="center" />
 [![Github](https://img.shields.io/github/followers/dhruv9316?label=Follow&style=social)](https://github.com/shubham05116)
 
 <div align="center">
@@ -90,7 +90,6 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shubham05116&&style=flat-square" align="center" />
 </div>  
   
 
@@ -99,8 +98,6 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 ### Show some ❤️ by starring some of the repos!
 
 </div>
