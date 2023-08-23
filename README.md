@@ -6,7 +6,7 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 <img src="https://komarev.com/ghpvc/?username=shubham05116&&style=flat-square" align="center" />
-[![Github](https://img.shields.io/github/followers/dhruv9316?label=Follow&style=social)](https://github.com/shubham05116)
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
