@@ -2,8 +2,6 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I am Shubham Kumar Singh</h1>
-          <h3 align ="center">Nice to meet you!</h3>  
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 <img src="https://komarev.com/ghpvc/?username=shubham05116&&style=flat-square" align="center" />
 
