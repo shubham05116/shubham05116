@@ -93,6 +93,5 @@
 
 <br />
 
-### Show some ❤️ by starring some of the repos!
 
 </div>
