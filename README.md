@@ -58,8 +58,12 @@
 <a href="https://instagram.com/https://www.instagram.com/pvt_shubh.am/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-         <a href="https://www.leetcode.com/https://leetcode.com/shubham_05116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shubham_05116/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shubhamsingh05116/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shubhamsingh05116/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+         <a href="https://www.leetcode.com/https://leetcode.com/shubham_05116/" target="blank">
+                  <img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+         </a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shubhamsingh05116/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank">
+         <img  src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
