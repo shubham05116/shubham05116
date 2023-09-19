@@ -69,7 +69,18 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shubham05116&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" /></div>  
 
-<br/>  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shubham05116&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<br/> 
+
+
+
+
+
+
+
 
   
 
