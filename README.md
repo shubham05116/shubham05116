@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://i.gifer.com/Ry6p.gif" width="600" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FRy6p&psig=AOvVaw2jwWVElrGiJcqbc9y31FUW&ust=1695246675802000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjHu5HUt4EDFQAAAAAdAAAAABAJ" width="600" height="300"/>
 </div>
 
 ## About me :sparkles:
