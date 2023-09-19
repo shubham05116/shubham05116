@@ -7,8 +7,7 @@
 
 
 <div align="center">
-  <img src="![image](https://github.com/shubham05116/shubham05116/assets/88928071/03819506-3141-4108-80c4-3a7aa0336c89)
-" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="600" height="300"/>
 </div>
 
 ## About me :sparkles:
