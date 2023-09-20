@@ -71,7 +71,7 @@
          <br/>  
 <br/>  
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham05116&theme=github_dark" align="center" alt="shubham05116" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham05116" align="center" />
 </div>  
 
 
