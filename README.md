@@ -67,9 +67,9 @@
 
 # 📊 GitHub Stats:
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shubham05116&show_icons=true&count_private=true&theme=github_dark" align="center" />
+<div align="center"><img style="margin: 5px" src="https://github-readme-stats.vercel.app/api?username=shubham05116&show_icons=true&count_private=true&theme=github_dark" align="center" />
                   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham05116&theme=dark&hide_border=false" align="center" />    
-         <br/> 
+         <br/>   <br/>   <br/> 
          
 
          
