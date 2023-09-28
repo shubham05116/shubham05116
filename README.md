@@ -5,19 +5,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=shubham05116&&style=flat-square" align="center" />
 
-
 <div align="center">
   <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="550" height="400" />
 </div>
 
 ## About me :sparkles:
-
   I am Shubham Kumar Singh, a Creative M.E.R.N. Stack Developer with Proficiency in HTML, CSS, JavaScript and Library/Frameworks like React-JS, Express-JS (MongoDB as database) & Tailwind CSS. Actively looking for an internship/job and ready to give my 100% towards my work. I love to solve DATA STRUCTURES & ALGORITHM problems using C++ and I am pursuing a Bachelor of Technology in Computer Science   
 
 <hr>
-
-
-
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -58,7 +53,6 @@
 
 </div>  
   
-
 <br/>  
 
 # 📊 GitHub Stats:
