@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+<h1 align="center"> Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I am Shubham Kumar Singh</h1>
